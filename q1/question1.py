@@ -12,3 +12,4 @@ def foo(values):
             return lowest+1
         lowest = head
     return -1
+
